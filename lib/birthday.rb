@@ -4,9 +4,11 @@ birthday_kids = {
  "Amanda" => 27
 }
 
-
+# Take in array of kid names and birthdays and puts a special message
 def happy_birthday(birthday_kids)
-  # add your code snippet here!
+  
+  
+  
 end
 
 
